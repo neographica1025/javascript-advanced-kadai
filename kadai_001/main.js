@@ -10,7 +10,7 @@ const typedfield = document.getElementById('typed');
 const wrap = document.getElementById('wrap');
 const start = document.getElementById('start');
 const count = document.getElementById('count');
-const typeCounter = document.getElementById('typeCounter');
+const typeCounter = document.getElementById('typecount');
 
 // 複数のテキストを格納する配列
 const textLists = [
